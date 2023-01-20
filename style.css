@@ -1,0 +1,184 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    background-color: #f8f9fa;
+    font-family: Roboto,system-ui,-apple-system,"Helvetica Neue","Segoe UI",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+}
+header {
+    width: 1831px;
+    height: 86px;
+    background-color: white;
+}
+.container {
+    width: 1320px;
+    margin: 0 auto;
+    height: 2000px;
+}
+.menu-center {
+    width: 1320px;
+    height: 86px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.menu-img img {
+    width: 70px;
+    height: 70px;
+    margin-top: 8px;
+}
+.menu-icon {
+    width: 250px;
+    height: 100px;
+    display: flex;
+    position: relative;
+    top: 20px;
+}
+.icon-user {
+    width: 90px;
+    height: 61px;
+    display: block;
+}
+.icon-comment {
+    width: 72px;
+    height: 61px;
+}
+.icon-heart {
+    width: 90px;
+    height: 61px;
+    display: block;
+}
+.icon-user svg{
+    width: 20px;
+    height: 23px;
+    display: block;
+}
+.icon-comment svg{
+    width: 20px;
+    height: 23px;
+    display: block;
+}
+.icon-heart svg{
+    width: 20px;
+    height: 23px;
+    display: block;
+}
+.icon-cart{
+    width: 72px;
+    height: 61px;
+}
+.icon-cart svg{
+    width: 20px;
+    height: 23px;
+    display: block;
+}
+.menu-icon span {
+    position: relative;
+    right: 13px;
+    top: 10px;
+    color: #212529;
+}
+.top {
+    width: 1320px;
+    height: 131px;
+}
+.top-home-text h1 {
+    margin-bottom: 0.5rem;
+    font-weight: 400;
+    color: #212529;
+    font-size: 2.5rem;
+}
+.top-text p {
+    margin-bottom: 1rem;
+    color: #212529;
+    font-size: 1rem;
+    font-weight: 300;
+}
+.center {
+    width: 1320px;
+    height: 256px;
+}
+.action {
+    display: flex;
+
+}
+.photo-img {
+    width: 312px;
+    height: 220px;
+    background: white;
+    text-align: center;
+}
+.photo-img img {
+    width: 140px;
+    height: 140px;
+}
+.photo-img p {
+    font-size: 1.25rem;
+    font-weight: 300;
+    color: #212529;
+}
+.ml-25 {
+    margin-left: 24px;
+}
+.section {
+    width: 1320px;
+    height: 895px;
+}
+.text {
+     font-size: 18px;
+     font-weight: 300;
+     color: #212529;
+ }
+.shop {
+    width: 1320px;
+    height: 824px;
+}
+.shop-photo {
+    width: 312px;
+    height: 312px;
+    display: flex;
+    background: white;
+}
+.shop-img img {
+    width: 312px;
+    height: 312px;
+    border-radius: 3px;
+}
+.price {
+    color: #212529;
+    font-size: 1.15rem;
+    font-weight: 400;
+    margin-top: 7px;
+}
+.home-col {
+    width: 1312px;
+    height: 138px;
+    display: flex;
+    margin-top: 27px;
+}
+.col {
+    width: 312px;
+    height: 122px;
+    background: white;
+    text-align: center;
+    border-radius: 4px;
+}
+.col svg{
+    width: 28px;
+    height: 33px;
+    margin-top: 20px;
+}
+.col-text {
+    font-size: 1.15rem;
+    margin-top: 10px;
+}
+.popular-text {
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+
+
+
+
+
